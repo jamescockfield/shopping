@@ -1,0 +1,12 @@
+body {
+    background-color: #333;
+}
+
+div.login {
+    margin-top: 200px;
+}
+
+input {
+    margin: 10px auto;
+    display: block;
+}
