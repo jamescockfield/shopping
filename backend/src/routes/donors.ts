@@ -1,7 +1,8 @@
 import express from "express";
 const router = express.Router();
 
-router.get("/donors", (req, res) => {
+router.get("/api/donors", (req, res) => {
+    console.log("hit donors");
     res.send("donors page");
 });
 

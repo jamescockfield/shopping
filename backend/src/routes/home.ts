@@ -3,7 +3,8 @@ import donors from "routes/donors";
 
 const router = express.Router();
 
-router.get("/", (req, res) => {
+router.get("/api", (req, res) => {
+    console.log("hit");
     res.send("Hello world");
 });
 
