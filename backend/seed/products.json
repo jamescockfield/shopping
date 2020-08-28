@@ -1,0 +1,458 @@
+[
+  {
+    "name": "Girls Button Front Crop Cami Top",
+    "salePrice": "1,49€",
+    "description": "Color: BurgundyStyle: CasualPattern Type: PlainNeckline: Spaghetti StrapLength: CropDetails: Rib-Knit, Button FrontSleeve Length: SleevelessSeason: SummerComposition: 92% Rayon, 8% SpandexMaterial: RayonFabric: Slight StretchSheer: NoFit Type: Slim FitPlacket Type: Pullovers",
+    "img": "http://img.ltwebstatic.com/images3_pi/2020/07/15/15947818606f6079f575d3c18885191b9f9e363179_thumbnail_600x.webp",
+    "sizes": "9Y",
+    "price": "4,00€"
+  },
+  {
+    "name": "Button Front Ruffle Dress",
+    "salePrice": "5,49€",
+    "description": "Color: Yellow, PastelStyle: CasualPattern Type: PlainNeckline: StrapsDresses Length: ShortType: CamiDetails: Button FrontSleeve Length: SleevelessSeason: SummerComposition: 65% Cotton, 35% PolyesterMaterial: CottonFabric: Non-StretchSheer: NoHem Shaped: FlounceFit Type: Regular Fit",
+    "img": "http://img.ltwebstatic.com/images3_pi/2020/06/02/15910986378157555e0b7962fb1ee569caf5e4f5d1_thumbnail_600x.webp",
+    "sizes": "S",
+    "price": "13,00€"
+  },
+  {
+    "name": "Two Tone Frill Trim Crop Tee",
+    "salePrice": "6,00€",
+    "description": "Color: Lilac PurpleStyle: CasualPattern Type: ColorblockNeckline: Stand CollarLength: CropDetails: Frill, Rib-KnitSleeve Length: Short SleeveSleeve Type: Regular SleeveSeason: SummerComposition: 90% Cotton, 10% ElastaneMaterial: PolyesterFabric: Slight StretchSheer: NoFit Type: Slim FitPlacket Type: Pullovers",
+    "img": "http://img.ltwebstatic.com/images3_pi/2020/07/14/15946598300b601dabe88bad26c64486a7d017d04d_thumbnail_600x.webp",
+    "sizes": "M",
+    "price": "10,00€"
+  },
+  {
+    "name": "Plus Floral Lace Lingerie Set",
+    "salePrice": "5,00€",
+    "description": "Color: BlackPattern Type: PlainType: Sexy SetsDetails: ScallopBra Type: BralettesPanty Type: BriefsComposition: 10% Polyester, 90% SpandexMaterial: LaceFabric: Slight StretchChest pad: No",
+    "img": "http://img.ltwebstatic.com/images3_pi/2020/06/16/15922876332d7a78854d5c33f07448762922e7c7d7_thumbnail_600x.webp",
+    "sizes": "1XL",
+    "price": "9,00€"
+  },
+  {
+    "name": "Ditsy Floral Print Ruched Bust Crop Cami Top",
+    "salePrice": "2,49€",
+    "description": "Color: MulticolorStyle: BohoPattern Type: Ditsy FloralNeckline: Spaghetti StrapLength: CropType: CamiDetails: Ruched BustSeason: SummerComposition: 92% Polyester, 8% SpandexMaterial: PolyesterFabric: Slight StretchSheer: NoFit Type: Regular Fit",
+    "img": "http://img.ltwebstatic.com/images3_pi/2020/07/20/1595207891c588647e938bca08a0ea99ba325cdd05_thumbnail_600x.webp",
+    "sizes": "S",
+    "price": "6,00€"
+  },
+  {
+    "name": "Men Letter Graphic Tee",
+    "salePrice": "7,00€",
+    "description": "Color: BlackStyle: CasualPattern Type: LetterNeckline: Round NeckLength: RegularSleeve Length: Short SleeveSleeve Type: Regular SleeveSeason: SummerComposition: 50% Cotton, 50% RayonMaterial: RayonFabric: Slight StretchSheer: NoFit Type: Regular FitPlacket Type: Pullovers",
+    "img": "http://img.ltwebstatic.com/images3_pi/2020/06/02/159109315213cc7c70b51d86f51b8c8eb234997e0f_thumbnail_600x.webp",
+    "sizes": "XXL",
+    "price": "10,00€"
+  },
+  {
+    "name": "Plus Lace Detail Ruffle Hem Top",
+    "salePrice": "6,00€",
+    "description": "Color: YellowStyle: ElegantPattern Type: PlainNeckline: V neckLength: RegularDetails: Contrast Lace, Ruffle HemSleeve Length: Short SleeveSleeve Type: Regular SleeveSeason: SummerFit Type: Regular FitComposition: 95.2% Polyester, 4.8% SpandexMaterial: PolyesterSheer: NoFabric: Slight StretchHem Shaped: Flared",
+    "img": "http://img.ltwebstatic.com/images3_pi/2020/06/17/15923596027d11976b87ec0b868b1bb6d01b58a47a_thumbnail_600x.webp",
+    "sizes": "4XL",
+    "price": "11,00€"
+  },
+  {
+    "name": "Raw Hem Ripped Detail Denim Shorts",
+    "salePrice": "7,00€",
+    "description": "Color: BlackStyle: CasualPattern Type: PlainDetails: Raw Hem, Button, Pocket, ZipperType: Straight LegComposition: 85% Cotton, 15% PolyesterMaterial: DenimFabric: Non-StretchSheer: NoFit Type: Regular FitClosure Type: Button Fly, Zipper FlyWaist Line: High Waist",
+    "img": "http://img.ltwebstatic.com/images3_pi/2020/06/12/1591944319c4ab72568cf23a26cbe3a20c8bdcc5f1_thumbnail_600x.webp",
+    "sizes": "",
+    "price": "15,00€"
+  },
+  {
+    "name": "Surplice Neck Shirred Landscape Crop Top",
+    "salePrice": "6,00€",
+    "description": "Color: MulticolorStyle: BohoPattern Type: Landscape PrintNeckline: V neckLength: CropType: TopDetails: Wrap, ShirredSleeve Length: Three Quarter Length SleeveSleeve Type: Bishop SleeveSeason: Spring/SummerComposition: 95% Polyester, 5% SpandexMaterial: PolyesterFabric: Non-StretchSheer: NoFit Type: Regular FitPlacket Type: Pullovers",
+    "img": "http://img.ltwebstatic.com/images3_pi/2020/07/10/159434761644f1b91b122644efd287ac11b192227c_thumbnail_600x.webp",
+    "sizes": "S",
+    "price": "11,00€"
+  },
+  {
+    "name": "Floral Scoop Neck Bikini Swimsuit",
+    "salePrice": "4,49€",
+    "description": "Color: Pastel, Baby BlueStyle: Cute, SexyPattern Type: Floral, All Over PrintNeckline: Scoop NeckComposition: 82% Polyester, 18% SpandexMaterial: PolyesterFabric: High StretchBra Type: Wireless BraBottom Type: NaturalLining: YesChest pad: Yes,can be removed",
+    "img": "http://img.ltwebstatic.com/images3_pi/2020/05/19/15898773919564537ec1cdbdcaf070bab6adadb556_thumbnail_600x.webp",
+    "sizes": "",
+    "price": "11,00€"
+  },
+  {
+    "name": "Girls Off Shoulder Top & Paperbag Waist Pocket Patched Striped Pants Set",
+    "salePrice": "7,00€",
+    "description": "Color: Black and WhiteStyle: BohoPattern Type: StripedNeckline: Off the ShoulderTop Type: BlouseBottom Type: PantsDetails: Ruffle, Belted, Pocket, Paper Bag WaistSeason: Spring/SummerComposition: 100% PolyesterMaterial: PolyesterFabric: Non-StretchSheer: NoFit Type: Regular FitBelt: YesArabian Clothing: Yes",
+    "img": "http://img.ltwebstatic.com/images3_pi/2020/05/16/1589612884e0ea9e61d7a8b2eb23f6ed80eb76ff27_thumbnail_600x.webp",
+    "sizes": "",
+    "price": "17,00€"
+  },
+  {
+    "name": "Dragon And Letter Graphic Tank Top & Pants",
+    "salePrice": "8,00€",
+    "description": "Color: MulticolorStyle: CasualPattern Type: Letter, AnimalNeckline: Round NeckTop Type: CamisoleBottom Type: PantsDetails: DrawstringSleeve Length: SleevelessSeason: Spring/SummerComposition: 95% Polyester, 5% SpandexMaterial: PolyesterFabric: Slight StretchSheer: NoFit Type: Regular Fit",
+    "img": "http://img.ltwebstatic.com/images3_pi/2020/07/01/159358774285610e6654036828bf80ca2d262cce5c_thumbnail_600x.webp",
+    "sizes": "S",
+    "price": "17,00€"
+  },
+  {
+    "name": "Drawstring Knot Rib-knit Skirt",
+    "salePrice": "6,00€",
+    "description": "Color: Baby BlueStyle: ElegantPattern Type: PlainLength: ShortType: BodyconDetails: Knot, Drawstring, Ruched, Rib-KnitSeason: SummerComposition: 95% Polyester, 5% SpandexWaist Line: High WaistMaterial: PolyesterFabric: Slight StretchSheer: No",
+    "img": "http://img.ltwebstatic.com/images3_pi/2020/07/06/159400798581df449fbbfa15d4e512214a47cecc91_thumbnail_600x.webp",
+    "sizes": "M",
+    "price": "9,00€"
+  },
+  {
+    "name": "Plus Random Geo Print Belted Robe",
+    "salePrice": "8,00€",
+    "description": "Color: BlackStyle: CasualPattern Type: Geometric, All Over PrintNeckline: V neckDetails: BeltedSleeve Length: Short SleeveComposition: 95% Polyester, 5% SpandexMaterial: PolyesterSheer: NoFabric: Non-StretchBelt: Yes",
+    "img": "http://img.ltwebstatic.com/images3_pi/2020/05/15/1589525492aaabb673b3cb948b563e314b3d747bd5_thumbnail_600x.webp",
+    "sizes": "3XL",
+    "price": "14,00€"
+  },
+  {
+    "name": "Criss Cross Back Bikini Swimsuit",
+    "salePrice": "8,00€",
+    "description": "Color: Navy BlueStyle: SexyPattern Type: PlainNeckline: Spaghetti StrapDetails: Criss CrossComposition: 80% Nylon, 20% SpandexMaterial: NylonFabric: High StretchBra Type: Wireless BraBottom Type: NaturalLining: YesChest pad: Yes,can be removed",
+    "img": "http://img.ltwebstatic.com/images3_pi/2020/06/30/159348372337746a8a93379a1c66933c2858fb7496_thumbnail_600x.webp",
+    "sizes": "",
+    "price": "12,00€"
+  },
+  {
+    "name": "Slogan & Heart Print Oversized Tee",
+    "salePrice": "5,00€",
+    "description": "Color: Dark GreyStyle: CasualPattern Type: Heart, SloganNeckline: Round NeckLength: LongSleeve Length: Half SleeveSleeve Type: Drop ShoulderSeason: SummerComposition: 100% CottonMaterial: CottonFabric: Slight StretchSheer: NoFit Type: OversizedPlacket Type: Pullovers",
+    "img": "http://img.ltwebstatic.com/images3_pi/2020/07/15/159481530688a4ed984ffb836b59c328c26ddb2a64_thumbnail_600x.webp",
+    "sizes": "L",
+    "price": "11,00€"
+  },
+  {
+    "name": "Ribbed Paris Graphic Bodycon Dress",
+    "description": "Color: BlackStyle: ElegantPattern Type: SloganNeckline: Stand CollarDresses Length: ShortType: BodyconDetails: Rib-KnitSleeve Length: Short SleeveSleeve Type: Regular SleeveSeason: SummerComposition: 95% Cotton, 5% SpandexMaterial: CottonFabric: Slight StretchWaist Line: NaturalSheer: NoHem Shaped: PencilFit Type: Slim Fit",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2019/12/11/1576029466dec451ac3e5246c164b8ed7eec2ac2e9_thumbnail_600x.webp",
+    "price": "7,00€",
+    "sizes": "",
+    "salePrice": null
+  },
+  {
+    "name": "Eyelash Lace Insert Flare Leg Pants",
+    "description": "Color: BlackStyle: ElegantPattern Type: PlainDetails: Contrast LaceLength: LongType: Flare LegSeason: Spring/Summer/FallComposition: 95% Polyester, 5% SpandexMaterial: PolyesterFabric: Slight StretchSheer: NoFit Type: Regular FitClosure Type: Zipper FlyWaist Line: High WaistArabian Clothing: Yes",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/02/26/15826820029b46c4b95c1cb72ee70096f328c52028_thumbnail_600x.webp",
+    "price": "13,00€",
+    "sizes": "",
+    "salePrice": null
+  },
+  {
+    "name": "Lettuce Trim Solid Tube Top",
+    "description": "Color: BlackStyle: CasualPattern Type: PlainNeckline: StraplessLength: CropDetails: Lettuce TrimSleeve Length: SleevelessSeason: SummerFit Type: Slim FitPlacket Type: PulloversComposition: 25% Cotton, 70% Polyester, 5% SpandexMaterial: PolyesterFabric: Slight StretchSheer: No",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/09/158374179278e93461268e546f5fa9c0cc6a04d4b6_thumbnail_600x.webp",
+    "price": "3,00€",
+    "sizes": "S",
+    "salePrice": null
+  },
+  {
+    "name": "Guipure Lace Insert Ruffle Cuff Solid Top",
+    "description": "Color: Yellow, BrightStyle: CutePattern Type: PlainNeckline: Round NeckLength: RegularDetails: Ruffle, Contrast LaceSleeve Length: Short SleeveSleeve Type: Flounce SleeveSeason: SummerComposition: 32% Cotton, 60% Polyester, 8% SpandexMaterial: PolyesterFabric: Slight StretchSheer: NoFit Type: Regular FitPlacket Type: Pullovers",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/04/08/158632517294d44e976b4f3f204fd4bd2d866b1d7e_thumbnail_600x.webp",
+    "price": "7,00€",
+    "sizes": "",
+    "salePrice": "4,00€"
+  },
+  {
+    "name": "Solid Tee & Button Front Belted Skirt",
+    "description": "Color: MulticolorStyle: CasualPattern Type: PlainNeckline: Round NeckTop Type: TeeBottom Type: SkirtDetails: Belted, Button FrontSleeve Length: Short SleeveSleeve Type: Regular SleeveSeason: SummerComposition: 35% Cotton, 65% PolyesterMaterial: PolyesterFabric: Non-StretchSheer: NoFit Type: Regular FitBelt: Yes",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/23/15849296954e8b47c79da31841c8e41b6790d6613c_thumbnail_600x.webp",
+    "price": "18,00€",
+    "sizes": "L",
+    "salePrice": null
+  },
+  {
+    "name": "Frill Trim Solid Peplum Top",
+    "description": "Color: WhiteStyle: CutePattern Type: PlainNeckline: Stand CollarLength: RegularType: PeplumDetails: Ruffle Hem, Button, FrillSleeve Length: Short SleeveSleeve Type: Flounce SleeveSeason: SummerComposition: 95% Polyester, 5% SpandexMaterial: PolyesterFabric: Slight StretchSheer: NoHem Shaped: FlaredFit Type: Regular FitPlacket Type: Pullovers",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/01/13/1578905359e8819c4f8c34162e31bca865a5cef143_thumbnail_600x.webp",
+    "price": "9,00€",
+    "sizes": "",
+    "salePrice": null
+  },
+  {
+    "name": "Solid Side Flap Pocket Pants",
+    "description": "Color: BlackStyle: CasualPattern Type: PlainDetails: Button, PocketLength: CroppedType: Straight LegSeason: Spring/Summer/FallComposition: 65% Cotton, 35% PolyesterMaterial: Cotton BlendsFabric: Non-StretchSheer: NoFit Type: Regular FitClosure Type: Button FlyWaist Line: High WaistLining: No",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/18/1584511807dfeb8dd7518880d040e9e785a892b422_thumbnail_600x.webp",
+    "price": "17,00€",
+    "sizes": "",
+    "salePrice": null
+  },
+  {
+    "name": "Floral Embroidered Mesh Sheer Top Without Bra",
+    "description": "Color: BlackStyle: SexyPattern Type: FloralNeckline: Round NeckLength: RegularDetails: Embroidery, SheerSleeve Length: Short SleeveSleeve Type: Regular SleeveSeason: SummerFit Type: Slim FitPlacket Type: PulloversComposition: 100% PolyesterMaterial: MeshFabric: Non-StretchSheer: Yes",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/31/158564378463075c835545e555b10655653aade5c0_thumbnail_600x.webp",
+    "price": "6,00€",
+    "sizes": "XL",
+    "salePrice": null
+  },
+  {
+    "name": "Sunflower Print Round Neck Tee",
+    "description": "Color: BlackStyle: CasualPattern Type: FloralNeckline: Round NeckLength: RegularSleeve Length: Short SleeveSleeve Type: Regular SleeveSeason: SummerComposition: 100% CottonMaterial: CottonFabric: Slight StretchSheer: NoFit Type: Regular FitPlacket Type: Pullovers",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/17/1584415625a3691efd3fbb6767341cb668647ce531_thumbnail_600x.webp",
+    "price": "8,99€",
+    "sizes": "XL",
+    "salePrice": null
+  },
+  {
+    "name": "Ditsy Floral Print Frill Trim Tie Front Crop Top",
+    "description": "Color: GreenStyle: BohoPattern Type: Ditsy FloralNeckline: SweetheartLength: CropDetails: Frill, Tie FrontSleeve Length: Short SleeveSleeve Type: Raglan SleeveSeason: SummerFit Type: Slim FitPlacket Type: PlacketComposition: 92% Polyester, 8% SpandexMaterial: PolyesterFabric: Non-StretchSheer: No",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/17/1584432068b09000886357a401ae8422d8c7d6c51d_thumbnail_600x.webp",
+    "price": "7,00€",
+    "sizes": "",
+    "salePrice": "6,00€"
+  },
+  {
+    "name": "Ruffle Armhole Floral Print Top",
+    "description": "Color: MulticolorStyle: BohoPattern Type: Floral, All Over PrintNeckline: Round NeckLength: RegularType: TopDetails: Ruffle, ButtonSleeve Length: SleevelessSeason: SummerComposition: 100% PolyesterMaterial: PolyesterFabric: Non-StretchSheer: NoFit Type: Regular FitPlacket Type: Pullovers",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/25/15851010490a1906f2f8be386dadb8091fb24b5fdd_thumbnail_600x.webp",
+    "price": "6,00€",
+    "sizes": "",
+    "salePrice": null
+  },
+  {
+    "name": "Cut Out Front Slim Tee Without Chain",
+    "description": "Color: BlackStyle: SexyPattern Type: PlainNeckline: Keyhole NecklineLength: RegularDetails: Cut OutSleeve Length: Cap SleeveSeason: SummerComposition: 45% Cotton, 50% Polyester, 5% SpandexMaterial: PolyesterFabric: Slight StretchSheer: NoFit Type: Slim FitPlacket Type: Pullovers",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/02/28/15828760770e4bb2bc2489bbca3e6d98408be3fe60_thumbnail_600x.webp",
+    "price": "3,99€",
+    "sizes": "XL",
+    "salePrice": null
+  },
+  {
+    "name": "Gigot Sleeve Wrap Belted Floral Blouse",
+    "description": "Color: MulticolorStyle: GlamorousPattern Type: Floral, All Over PrintNeckline: SweetheartLength: CropType: TopDetails: Belted, WrapSleeve Length: Long SleeveSleeve Type: Leg-of-mutton SleeveSeason: Spring/SummerComposition: 100% PolyesterMaterial: PolyesterFabric: Non-StretchSheer: NoFit Type: Regular FitBelt: Yes",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2019/12/20/157682842857fd72fb4e33dc4de28b58647b26ad56_thumbnail_600x.webp",
+    "price": "11,00€",
+    "sizes": "XL",
+    "salePrice": null
+  },
+  {
+    "name": "Mock Neck Graphic Bodycon Dress",
+    "description": "Color: MulticolorStyle: CasualPattern Type: GraphicNeckline: Stand CollarDresses Length: ShortType: BodyconSleeve Length: Short SleeveSleeve Type: Regular SleeveSeason: Spring/SummerComposition: 95% Polyester, 5% SpandexMaterial: PolyesterFabric: Slight StretchWaist Line: NaturalSheer: NoHem Shaped: PencilFit Type: Slim Fit",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/03/15832312048abb3339eaaee8efc5839c94b6d3ac7d_thumbnail_600x.webp",
+    "price": "8,00€",
+    "sizes": "XL",
+    "salePrice": null
+  },
+  {
+    "name": "Abstract Print High-Rise Windbreaker Joggers",
+    "description": "Color: BlackStyle: SportyPattern Type: Geometric, GraphicLength: LongType: Tapered/CarrotSeason: Spring/Summer/FallComposition: 100% PolyesterMaterial: PolyesterFabric: Non-StretchSheer: NoFit Type: Regular FitClosure Type: Elastic WaistWaist Line: High Waist",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/18/158451901125f8db5c3dbabafccb154104a39367c3_thumbnail_600x.webp",
+    "price": "12,00€",
+    "sizes": "XL",
+    "salePrice": null
+  },
+  {
+    "name": "Halter Self Tie Ruffle Hem Polka Dot Dress",
+    "description": "Color: YellowStyle: BohoPattern Type: Polka DotNeckline: HalterLength: MaxiType: A LineDetails: Ruffle Hem, BeltedSleeve Length: SleevelessSeason: Spring/SummerComposition: 95% Polyester, 5% SpandexMaterial: PolyesterFabric: Non-StretchWaist Line: High WaistSheer: NoHem Shaped: FlounceFit Type: Regular FitBelt: Yes",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/06/15834976471758af844da4630978c8d46b22cac340_thumbnail_600x.webp",
+    "price": "16,00€",
+    "sizes": "",
+    "salePrice": null
+  },
+  {
+    "name": "Keyhole Neck Two Tone Jumpsuit",
+    "description": "Color: BlackStyle: ElegantPattern Type: ColorblockNeckline: Keyhole NecklineLength: CaprisType: OtherDetails: Cut Out, ZipperSleeve Length: Short SleeveSleeve Type: Regular SleeveSeason: Spring/FallComposition: 95% Polyester, 5% SpandexMaterial: PolyesterFabric: Slight StretchSheer: NoFit Type: Regular FitWaist Line: High Waist",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/04/01/1585728966e1e1dba0e8e81f1cb51c6ff9ed1032fa_thumbnail_600x.webp",
+    "price": "14,00€",
+    "sizes": "XS",
+    "salePrice": null
+  },
+  {
+    "name": "Pearl Beaded Lettuce Edge Tee",
+    "description": "Color: Navy BlueStyle: ElegantPattern Type: PlainNeckline: Stand CollarLength: CropDetails: Pearls, Beaded, Lettuce Trim, Rib-KnitSleeve Length: Short SleeveSleeve Type: Regular SleeveSeason: SummerComposition: 25% Cotton, 70% Polyester, 5% SpandexMaterial: PolyesterFabric: Slight StretchSheer: NoFit Type: Slim FitPlacket Type: Pullovers",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/04/02/15858146408c4556cab1d3a2924a3d38c03c66569c_thumbnail_600x.webp",
+    "price": "3,99€",
+    "sizes": "",
+    "salePrice": null
+  },
+  {
+    "name": "Rib-knit Solid Tee",
+    "description": "Color: WhiteStyle: CasualPattern Type: PlainNeckline: V neckLength: RegularDetails: Rib-KnitSleeve Length: Short SleeveSleeve Type: Regular SleeveSeason: SummerComposition: 95% Cotton, 5% SpandexMaterial: CottonFabric: Slight StretchSheer: NoFit Type: Slim FitPlacket Type: Pullovers",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/23/15849302176a30a236c2639e7f50fc6d73a92a148f_thumbnail_600x.webp",
+    "price": "3,99€",
+    "sizes": "",
+    "salePrice": null
+  },
+  {
+    "name": "Ruffle Strap Tied Open Back Buffalo Plaid Top",
+    "description": "Color: Black and WhiteStyle: SexyPattern Type: GinghamNeckline: SweetheartLength: CropDetails: Backless, Ruffle, Tie BackSleeve Length: SleevelessSeason: SummerFit Type: Slim FitComposition: 20% Cotton, 80% PolyesterMaterial: PolyesterFabric: Non-StretchSheer: No",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/09/15837399248c2dece84d8d5c442286288588ccbf52_thumbnail_600x.webp",
+    "price": "5,00€",
+    "sizes": "M",
+    "salePrice": null
+  },
+  {
+    "name": "Checkered Print High-Rise Biker Shorts",
+    "description": "Color: Black and WhiteStyle: SportyPattern Type: PlaidLength: ShortType: Biker ShortsSeason: Spring/Summer/FallComposition: 95% Polyester, 5% SpandexMaterial: PolyesterFabric: Slight StretchSheer: No",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/11/15839007845faf65236c6b8d355a0381043bc23660_thumbnail_600x.webp",
+    "price": "6,00€",
+    "sizes": "XS",
+    "salePrice": null
+  },
+  {
+    "name": "Letter Tape Waist Mesh Insert Leggings",
+    "description": "Color: BlackStyle: SportyPattern Type: LetterLength: LongType: RegularDetails: Contrast Mesh, TapeSeason: Spring/Summer/FallComposition: 95% Cotton, 5% SpandexMaterial: CottonFabric: Non-StretchSheer: No",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/01/14/15789671700676b2769a8b675f72a4c8383b521f71_thumbnail_600x.webp",
+    "price": "8,00€",
+    "sizes": "XL",
+    "salePrice": null
+  },
+  {
+    "name": "Surplice Neck Botanical Print Belted Romper",
+    "description": "Color: MulticolorStyle: BohoPattern Type: Floral, All Over PrintNeckline: V neckLength: ShortType: OtherDetails: Belted, WrapSleeve Length: Short SleeveSleeve Type: Butterfly SleeveSeason: SummerComposition: 100% PolyesterMaterial: PolyesterFabric: Non-StretchSheer: NoFit Type: Regular FitBelt: YesWaist Line: High Waist",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/04/15833141933062907b5fccff18677e9ddbf467ac86_thumbnail_600x.webp",
+    "price": "14,00€",
+    "sizes": "",
+    "salePrice": "12,00€"
+  },
+  {
+    "name": "Rib-knit Crop Cami Top",
+    "description": "Color: BlackStyle: BasicsPattern Type: PlainNeckline: Spaghetti StrapLength: CropType: CamiDetails: Rib-KnitSeason: SummerComposition: 95% Polyester, 5% SpandexMaterial: PolyesterFabric: Slight StretchSheer: NoFit Type: Slim Fit",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/30/15855370501dd6074fbb4e0034eb9396750d144a88_thumbnail_600x.webp",
+    "price": "5,00€",
+    "sizes": "",
+    "salePrice": null
+  },
+  {
+    "name": "Mock Neck Crop Top & Drawstring Cargo Joggers Set",
+    "description": "Color: MulticolorStyle: CasualPattern Type: LetterNeckline: Stand CollarTop Type: TeeBottom Type: PantsDetails: Drawstring, Patched, PocketSleeve Length: Short SleeveSleeve Type: Regular SleeveSeason: Spring/FallComposition: 35% Cotton, 65% PolyesterMaterial: Cotton BlendsFabric: Non-StretchSheer: NoFit Type: Regular Fit",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/02/25/1582616753a6e5021d7017d010d927c81536be8296_thumbnail_600x.webp",
+    "price": "18,00€",
+    "sizes": "S",
+    "salePrice": null
+  },
+  {
+    "name": "Flare Leg Tribal Print Pants",
+    "description": "Color: MulticolorStyle: BohoPattern Type: TribalLength: LongType: Flare LegSeason: Spring/Summer/FallComposition: 92% Polyester, 8% SpandexMaterial: PolyesterFabric: Slight StretchSheer: NoFit Type: Regular FitClosure Type: Elastic WaistWaist Line: Natural",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/13/15840648885ae23837a3160c278056b05eea10e773_thumbnail_600x.webp",
+    "price": "10,00€",
+    "sizes": "",
+    "salePrice": null
+  },
+  {
+    "name": "One Shoulder Gigot Sleeve Floral Print Top",
+    "description": "Color: MulticolorStyle: SexyPattern Type: Floral, All Over PrintNeckline: One ShoulderLength: RegularSleeve Length: Long SleeveSleeve Type: Leg-of-mutton SleeveSeason: Spring/SummerComposition: 95% Polyester, 5% SpandexMaterial: PolyesterFabric: Slight StretchSheer: NoFit Type: Slim FitPlacket Type: Pullovers",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2019/11/27/1574821239be8a2d7436a38fd36708278c7882b01f_thumbnail_600x.webp",
+    "price": "3,99€",
+    "sizes": "XS",
+    "salePrice": null
+  },
+  {
+    "name": "Surplice Neck Floral Print Belted Cami Jumpsuit",
+    "description": "Color: MulticolorStyle: BohoPattern Type: FloralNeckline: Spaghetti StrapLength: LongType: CamiDetails: BeltedSleeve Length: SleevelessSeason: Spring/SummerComposition: 100% PolyesterMaterial: PolyesterFabric: Non-StretchSheer: NoFit Type: Regular FitBelt: YesWaist Line: High Waist",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/01/13/1578882987397ef02189a3ebb085328c2b32e49ac3_thumbnail_600x.webp",
+    "price": "12,00€",
+    "sizes": "S",
+    "salePrice": null
+  },
+  {
+    "name": "Contrast Binding Butterfly Print Cami Top",
+    "description": "Color: WhiteStyle: CasualPattern Type: AnimalNeckline: Spaghetti StrapLength: CropType: CamiDetails: Contrast BindingSeason: SummerComposition: 95.2% Polyester, 4.8% SpandexMaterial: PolyesterFabric: Non-StretchSheer: NoFit Type: Slim Fit",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/17/1584438857ed1edcdd663da2f7f8a4607c733fd32a_thumbnail_600x.webp",
+    "price": "5,00€",
+    "sizes": "",
+    "salePrice": "4,00€"
+  },
+  {
+    "name": "Neon Orange Slogan Graphic Oversized Tee",
+    "description": "Color: Orange, BrightStyle: CasualPattern Type: SloganNeckline: Round NeckLength: LongSleeve Length: Three Quarter Length SleeveSleeve Type: Drop ShoulderSeason: Spring/SummerComposition: 95% Cotton, 5% SpandexMaterial: CottonFabric: High StretchSheer: NoFit Type: OversizedPlacket Type: PulloversArabian Clothing: Yes",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/03/1583222777569ce4cf2673b2d939d31f529534c418_thumbnail_600x.webp",
+    "price": "9,00€",
+    "sizes": "S",
+    "salePrice": "4,00€"
+  },
+  {
+    "name": "Floral Print Bell Sleeve Boxy Pleated Satin Dress",
+    "description": "Color: GreenStyle: Modest, GlamorousPattern Type: FloralNeckline: Stand CollarDresses Length: LongType: Fit and FlareDetails: Ruffle, Pleated, ZipperSleeve Length: Three Quarter Length SleeveSleeve Type: Flounce SleeveSeason: Spring/FallComposition: 100% PolyesterMaterial: SatinFabric: Non-StretchWaist Line: High WaistSheer: NoHem Shaped: FlaredFit Type: Regular FitArabian Clothing: Yes",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2019/12/04/1575447090fc7866be27a3487903a73a3206d5af46_thumbnail_600x.webp",
+    "price": "18,00€",
+    "sizes": "",
+    "salePrice": null
+  },
+  {
+    "name": "Cap Sleeve Curved Hem Solid Top",
+    "description": "Color: BlackStyle: BasicsPattern Type: PlainNeckline: Round NeckLength: RegularSleeve Length: Cap SleeveSleeve Type: Regular SleeveSeason: SummerComposition: 25% Cotton, 75% PolyesterMaterial: PolyesterFabric: Slight StretchSheer: NoHem Shaped: AsymmetricalFit Type: Regular FitPlacket Type: Pullovers",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/31/1585633221661cc014bc96a78d250d8a092b9da6fd_thumbnail_600x.webp",
+    "price": "3,99€",
+    "sizes": "L",
+    "salePrice": null
+  },
+  {
+    "name": "Tie Waist Ruffle Trim Floral Print Skirt",
+    "description": "Color: BurgundyStyle: BohoPattern Type: Floral, All Over PrintLength: MaxiType: Layered/TieredDetails: Ruffle, Tiered Layer, Tie FrontSeason: Spring/Summer/FallComposition: 100% RayonWaist Line: High WaistMaterial: RayonFabric: Non-StretchSheer: NoBelt: Yes",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/26/1585197009d375d82708eb533f520ef32f1444a46c_thumbnail_600x.webp",
+    "price": "18,00€",
+    "sizes": "",
+    "salePrice": null
+  },
+  {
+    "name": "Notch Collar Solid Blazer Skort Romper",
+    "description": "Color: BlackStyle: ElegantPattern Type: PlainNeckline: LapelLength: ShortType: ShirtDetails: Wrap, ZipperSleeve Length: SleevelessSeason: SummerComposition: 95% Polyester, 5% SpandexMaterial: PolyesterFabric: Slight StretchSheer: NoFit Type: Regular FitWaist Line: High Waist",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/01/13/157888288890bbaf32b6f15d376c0983aecef3167f_thumbnail_600x.webp",
+    "price": "15,00€",
+    "sizes": "",
+    "salePrice": null
+  },
+  {
+    "name": "Paperbag Waist Belted Plaid Shorts",
+    "description": "Color: GreyStyle: CasualPattern Type: PlaidDetails: Belted, Paper Bag WaistType: Wide LegSeason: SummerComposition: 80% Cotton, 20% PolyesterMaterial: CottonFabric: Slight StretchSheer: NoFit Type: Regular FitClosure Type: Elastic WaistWaist Line: High WaistBelt: Yes",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/01/09/1578536030fdcf1077aa70736aca56822d4fbfc0a7_thumbnail_600x.webp",
+    "price": "9,00€",
+    "sizes": "",
+    "salePrice": "7,00€"
+  },
+  {
+    "name": "Newspaper Print Slim Tee Bodysuit",
+    "description": "Color: MulticolorStyle: CasualPattern Type: Slogan, All Over PrintNeckline: Round NeckType: TeeSleeve Length: Cap SleeveSleeve Type: Regular SleeveSeason: SummerComposition: 95% Polyester, 5% SpandexMaterial: PolyesterFabric: Slight StretchSheer: NoFit Type: SkinnyWaist Line: Natural",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/02/27/1582787921473ddee865c90395439313407abf5b31_thumbnail_600x.webp",
+    "price": "7,00€",
+    "sizes": "",
+    "salePrice": null
+  },
+  {
+    "name": "Letter Graphic Crop Top & Leggings Set",
+    "description": "Color: BlackStyle: SportyPattern Type: LetterNeckline: Round NeckTop Type: TeeBottom Type: LeggingsSleeve Length: Long SleeveSleeve Type: Regular SleeveSeason: Spring/FallComposition: 92% Polyester, 8% SpandexMaterial: PolyesterFabric: High StretchSheer: NoFit Type: Slim FitArabian Clothing: Yes",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2019/12/31/15777622478be78d3f080e6d96598633306f9dc523_thumbnail_600x.webp",
+    "price": "13,00€",
+    "sizes": "M",
+    "salePrice": null
+  },
+  {
+    "name": "Fox Print Plunging Self-Tie Crop Top",
+    "description": "Color: MulticolorStyle: BohoPattern Type: Animal, LetterNeckline: Deep V NeckLength: CropDetails: Tie FrontSleeve Length: Long SleeveSleeve Type: Flounce SleeveSeason: Spring/SummerFit Type: Regular FitPlacket Type: PlacketComposition: 100% PolyesterMaterial: PolyesterFabric: Non-StretchSheer: No",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/05/158337667306cf7fd3ae0c7fa4100a2cd01655ca30_thumbnail_600x.webp",
+    "price": "15,00€",
+    "sizes": "",
+    "salePrice": null
+  },
+  {
+    "name": "Geo Print Smocked Harem Pants",
+    "description": "Color: BurgundyStyle: BohoPattern Type: TribalDetails: ShirredLength: LongType: Tapered/CarrotSeason: Spring/Summer/FallComposition: 35% Rayon, 65% CottonMaterial: CottonFabric: Non-StretchSheer: NoFit Type: Regular FitClosure Type: Elastic WaistWaist Line: High WaistArabian Clothing: Yes",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/01/16/1579156690e7a418f334e049bea43b8088cd2e928f_thumbnail_600x.webp",
+    "price": "12,00€",
+    "sizes": "",
+    "salePrice": null
+  },
+  {
+    "name": "Ruffle Hem All Over Print Asymmetrical Skirt",
+    "description": "Color: Black and WhiteStyle: BohoPattern Type: All Over PrintLength: MidiType: AsymmetricalDetails: Ruffle HemSeason: Spring/SummerComposition: 100% PolyesterWaist Line: High WaistMaterial: ChiffonFabric: Non-StretchSheer: No",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/06/158349945885744c7697795dd2269667f6d5e8161e_thumbnail_600x.webp",
+    "price": "14,00€",
+    "sizes": "",
+    "salePrice": null
+  },
+  {
+    "name": "Mock Neck Solid Tee",
+    "description": "Color: BlackStyle: Casual, BasicsPattern Type: PlainNeckline: Stand CollarLength: RegularSleeve Length: Short SleeveSleeve Type: Regular SleeveSeason: SummerComposition: 90% Cotton, 10% LinenMaterial: CottonFabric: Non-StretchSheer: NoFit Type: Regular FitPlacket Type: Pullovers",
+    "image-src": "http://img.ltwebstatic.com/images3_pi/2020/03/03/15832228480caaf16ff5ea4b5721ed99062b16bfd4_thumbnail_600x.webp",
+    "price": "4,99€",
+    "sizes": "XS",
+    "salePrice": null
+  }
+]
