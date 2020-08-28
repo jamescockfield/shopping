@@ -23,16 +23,18 @@ function getRandomInt(max) {
   return Math.floor(Math.random() * Math.floor(max)) + 1;
 }
 
-products.map(product => {
-    let n = getRandomInt(4);
-    sizes = shuffle(sizes);
-    let productSizes = [];
-    for (i = 0; i < n; i++) {
-        productSizes.push(sizes[i]);
-    }
-    console.log(productSizes);
-    product.sizes = productSizes;
-    return product;
-});
+// products.map(product => {
+    // let n = getRandomInt(4);
+    // sizes = shuffle(sizes);
+    // let productSizes = [];
+    // for (i = 0; i < n; i++) {
+        // productSizes.push(sizes[i]);
+    // }
+    // console.log(productSizes);
+    // product.sizes = productSizes;
+    // return product;
+// });
+
+products = shuffle(products);
 
 fs.writeFileSync(`./products_finished.json`, JSON.stringify(products));

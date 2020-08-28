@@ -1,13 +1,13 @@
 import express from "express";
-import donors from "routes/donors";
+import products from "routes/products";
 
 const router = express.Router();
 
 router.get("/api", (req, res) => {
-    console.log("hit");
+    console.log("hit on /api");
     res.send("Hello world");
 });
 
-router.use(donors);
+router.use(products);
 
 export default router;

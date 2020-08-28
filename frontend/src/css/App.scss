@@ -1,0 +1,60 @@
+body {
+    background-color: #333;
+    color: floralwhite;
+    text-align: center;
+    font-family: sans-serif;
+}
+.navbar {
+    a {
+        text-decoration: none;
+        color: floralwhite;
+        
+        h1 {
+            display: inline;
+            width: max-content;
+        }
+    }
+    button {
+        float: right;
+    }
+}
+
+.login {
+    margin-top: 200px;
+
+    input {
+        margin: 10px auto;
+        display: block;
+    }
+}
+
+.products {
+
+
+    .product {
+        width: 200px;
+        display: inline-block;
+        margin: 20px;
+        text-align: left;
+        background-color: #444;
+        padding: 10px;
+    
+        h2 {
+            height: 60px;
+        }
+    
+        img {
+            max-width: 100%;
+            margin: 10px 0;
+        }
+
+        span.sale {
+            color: lightgreen;
+            font-weight: bold;
+        }
+
+        span:nth-of-type(2) {
+            float: right;
+        }
+    }
+}

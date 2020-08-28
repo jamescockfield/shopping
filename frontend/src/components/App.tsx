@@ -1,16 +1,17 @@
 import React from 'react';
-import 'css/App.css';
-
-fetch("/api/")
-    .then(res => res.text())
-    .then(res => console.log(res));
+import Login from 'components/Login';
+import Products from 'components/Products';
+import Navbar from 'components/Navbar';
+import 'css/App.scss';
 
 const App = () => (
-    <div className="login">
-        <input placeholder="username"/>
-        <input placeholder="password" type="password"/>
-        <input type="submit" value="submit"/>
-    </div>
+    <>
+        <Navbar/>
+        { window.location.href.endsWith("/login") ?
+            <Login/> :
+            <Products/>}
+        
+    </>
 );
 
 export default App;
