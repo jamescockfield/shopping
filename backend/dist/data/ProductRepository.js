@@ -4,6 +4,8 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const fs_1 = __importDefault(require("fs"));
+const mongoose_1 = __importDefault(require("mongoose"));
+const ProductSchema = new mongoose_1.default.Schema({});
 class ProductRepository {
     async getAll() {
         return new Promise((resolve, reject) => {

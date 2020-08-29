@@ -1,10 +1,10 @@
 import express from "express";
-import ProductRepository from 'data/ProductRepository';
+import Product from 'data/Product';
+
 const router = express.Router();
-const productRepository = new ProductRepository();
 
 router.get("/api/products", async (req, res) => {
-    res.send(await productRepository.getAll());
+    res.send(await Product.find());
 });
 
 export default router;

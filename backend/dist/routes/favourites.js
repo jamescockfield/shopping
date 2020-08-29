@@ -4,11 +4,14 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const express_1 = __importDefault(require("express"));
-const FavouriteRepository_1 = require("data/FavouriteRepository");
+const Favourite_1 = __importDefault(require("data/Favourite"));
 const router = express_1.default.Router();
-const favouriteRepository = new FavouriteRepository_1.FavouriteRepository();
 router.post("/api/favourite", async (req, res) => {
-    if (favouriteRepository.setFavourite(req.body.guid, req.body.favourite)) {
+    if (Favourite_1.default.update({
+        userGuid: req.body.userGuid,
+        productGuid: req.body.guid,
+        favourite: req.body.favourite
+    }, { upsert: true })) {
         res.send("success");
     }
     else {

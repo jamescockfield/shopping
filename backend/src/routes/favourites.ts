@@ -1,12 +1,15 @@
 import express from "express";
-import { FavouriteRepository } from 'data/FavouriteRepository';
+import Favourite from 'data/Favourite';
 
 const router = express.Router();
-const favouriteRepository = new FavouriteRepository();
 
 router.post("/api/favourite", async (req, res) => {
 
-    if (favouriteRepository.setFavourite(req.body.guid, req.body.favourite)) {
+    if (Favourite.update({
+        userGuid: req.body.userGuid,
+        productGuid: req.body.guid,
+        favourite: req.body.favourite
+    }, { upsert: true })) {
 
         res.send("success")
     } else {

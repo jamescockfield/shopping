@@ -11,6 +11,6 @@ const FavouriteSchema = new mongoose_1.default.Schema({
     favourite: Boolean,
 }, { timestamps: true });
 FavouriteSchema.plugin(mongoose_delete_1.default, { deletedAt: true });
-const Favourite = new mongoose_1.default.model('Favourite', FavouriteSchema);
+const Favourite = mongoose_1.default.model('Favourite', FavouriteSchema);
 exports.default = Favourite;
-//# sourceMappingURL=FavouriteRepository.js.map
+//# sourceMappingURL=Favourite.js.map

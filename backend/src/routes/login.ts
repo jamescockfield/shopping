@@ -1,17 +1,20 @@
 import express from "express";
-import { UserRepository } from 'data/UserRepository';
+import User from "data/User";
 
 const router = express.Router();
-const userRepository = new UserRepository();
 
 router.post("/api/login", async (req, res) => {
 
-    if (userRepository.authenticate(req.body.username, req.body.password)) {
+    const result = await User.findOne({
+        email: req.body.username,
+        password: req.body.password
+    });
 
+    console.log("RES: " + result);
+    if (result) {
         res.cookie("session", "testsession");
         res.redirect("/");
     } else {
-
         res.send("invalid credentials");
     }
 });
