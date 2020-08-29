@@ -1,9 +1,10 @@
-import React from 'react';
+import React from "react";
+import UserPanel from "components/UserPanel";
 
 const Navbar = () => (
     <div className="navbar">
         <a href="/"><h1>Shopping Website</h1></a>
-        <a href="/login"><button>Login</button></a>
+        <UserPanel/>
     </div>
 );
 

@@ -1,5 +1,4 @@
 import fs from 'fs';
-console.log(process.cwd() + "/seed/products.json");
 
 class ProductRepository {
 
