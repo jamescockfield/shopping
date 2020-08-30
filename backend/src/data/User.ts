@@ -7,7 +7,7 @@ interface IAddress {
     zipCode: string
 }
 
-interface IUser extends mongoose.Document {
+export interface IUser extends mongoose.Document {
     firstName: string,
     lastName: string,
     email: string,
@@ -31,6 +31,4 @@ UserSchema.plugin(mongoose_delete, { deletedAt: true });
 
 // we need to implement waterfall delete here for the address record
 
-const User = mongoose.model<IUser>("User", UserSchema);
-
-export default User;
+export const User = mongoose.model<IUser>("User", UserSchema);

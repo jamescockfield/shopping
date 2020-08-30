@@ -1,22 +1,21 @@
 import express from "express";
-import User from "data/User";
+import { User } from "data/User";
+import passport from "passport";
 
 const router = express.Router();
 
-router.post("/api/login", async (req, res) => {
+router.post("/api/login", passport.authenticate("local", {
+    failureRedirect: "/login",
+    failureFlash: true
+}), (req, res) => {
+    res.cookie("loggedIn", true);
+    res.redirect("/");
+});
 
-    const result = await User.findOne({
-        email: req.body.username,
-        password: req.body.password
-    });
-
-    console.log("RES: " + result);
-    if (result) {
-        res.cookie("session", "testsession");
-        res.redirect("/");
-    } else {
-        res.send("invalid credentials");
-    }
+router.get("/api/logout", (req, res) => {
+    req.logout();
+    res.clearCookie("loggedIn");
+    res.redirect("/");
 });
 
 export default router;

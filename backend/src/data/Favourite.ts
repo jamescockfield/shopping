@@ -3,15 +3,13 @@ import mongoose from "mongoose";
 import mongoose_delete from "mongoose-delete";
 
 interface IFavourite extends mongoose.Document {
-    userId: number,
-    productId: number,
-    favourites: boolean
+    userId: typeof mongoose.Schema.Types.ObjectId,
+    favourites: number[]
 }
 
 const FavouriteSchema: mongoose.Schema = new mongoose.Schema({
-    userId: Number,
-    productId: Number,
-    favourite: Boolean,
+    userId: mongoose.Schema.Types.ObjectId,
+    favourite: [Number]
 }, { timestamps: true });
 
 FavouriteSchema.plugin(mongoose_delete, { deletedAt: true });

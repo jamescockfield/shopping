@@ -1,33 +1,16 @@
 let fs = require("fs");
+let uuid = require("uuid").v4;
 
-let name = "products";
-let data = fs.readFileSync(`./${name}.json`);
+let data = fs.readFileSync(`./products.json`);
 let products = JSON.parse(data);
-//
-// let result = [];
-
-// products.forEach(product => {
-    // let resultContains = false;
-    // result.forEach(r => {
-        // if (product.name == r.name) {
-            // resultContains = true;
-        // }
-    // });
-//
-    // if (!resultContains) {
-        // result.push(product);
-    // }
-// });
 
 products.map(product => {
-    if (product.originalPrice) {
-        product.price = product.originalPrice;
-    }
-    delete product.originalPrice;
+    product.price = parseFloat(product.price.replace(",", "."));
+    product.salePrice = product.salePrice && parseFloat(product.salePrice.replace(",", "."));
     return product;
 });
 
-fs.writeFileSync(`./${name}_finished.json`, JSON.stringify(products));
+fs.writeFileSync(`./products_finished.json`, JSON.stringify(products));
 
 console.log(products.length);
 // console.log(result.length);

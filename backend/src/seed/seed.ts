@@ -2,7 +2,7 @@ import fs from "fs";
 import mongoose from "mongoose";
 import faker from "faker";
 import Product from "data/Product";
-import User from "data/User";
+import { User } from "data/User";
 import products from "seed/products.json";
 
 function seedUsers() {

@@ -5,9 +5,15 @@ body {
     font-family: sans-serif;
 }
 .navbar {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
     a {
+        grid-column: 2;
         text-decoration: none;
         color: floralwhite;
+        width: max-content;
+        justify-self: center;
         
         h1 {
             display: inline;
@@ -15,18 +21,22 @@ body {
         }
     }
     .user-panel {
-        float: right;
+        grid-column: 3;
+        justify-self: end;
         font-size: 25px;
 
         svg {
-            cursor: pointer;
+            // cursor: pointer;
             margin: 0 10px;
         }
     }
 }
 
-.login {
+.login, .register {
+    display: inline-block;
+    width: max-content;
     margin-top: 200px;
+    padding: 0 200px;
 
     input {
         margin: 10px auto;
@@ -36,6 +46,9 @@ body {
     .error {
         color: crimson;
     }
+}
+.register {
+    border-left: 2px solid grey;
 }
 
 .products {

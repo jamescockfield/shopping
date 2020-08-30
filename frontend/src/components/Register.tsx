@@ -1,12 +1,13 @@
 import React from "react";
 
-interface LoginState {
+interface RegisterState {
     email?: string,
     password?: string,
+    passwordConfirm?: string,
     error?: string
 }
 
-class Login extends React.Component<any, LoginState> {
+class Register extends React.Component<any, RegisterState> {
 
     constructor(props: any) {
 
@@ -14,6 +15,7 @@ class Login extends React.Component<any, LoginState> {
         this.state = {
             email: "",
             password: "",
+            passwordConfirm: "",
             error: ""
         };
     }
@@ -22,11 +24,17 @@ class Login extends React.Component<any, LoginState> {
         this.setState({ [event.target.name]: event.target.value });
     }
 
-    sendLogin = () => {
+    sendRegister = () => {
+
+        if (this.state.password !== this.state.passwordConfirm) {
+
+            this.setState({ error: "passwords do not match" });
+            return;
+        }
 
         this.setState({ error: "" });
 
-        fetch("/api/login", {
+        fetch("/api/register", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
@@ -51,14 +59,15 @@ class Login extends React.Component<any, LoginState> {
 
     render () {
 
-        return <div className="login">
-            <h2>Login</h2>
+        return <div className="register">
+            <h2>Register</h2>
             <input name="email" placeholder="email" value={ this.state.email } onChange={ this.handleChange }/>
             <input name="password" placeholder="password" value={ this.state.password } onChange={ this.handleChange } type="password"/>
-            <input type="submit" value="submit" onClick={ this.sendLogin }/>
+            <input name="passwordConfirm" placeholder="confirm password" value={ this.state.passwordConfirm } onChange={ this.handleChange } type="password"/>
+            <input type="submit" value="submit" onClick={ this.sendRegister }/>
             <span className="error">{ this.state.error }</span>
         </div>;
     }
 }
 
-export default Login;
+export default Register;

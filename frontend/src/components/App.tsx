@@ -1,5 +1,6 @@
 import React from 'react';
 import Login from 'components/Login';
+import Register from 'components/Register';
 import Products from 'components/Products';
 import Navbar from 'components/Navbar';
 import Checkout from 'components/Checkout';
@@ -19,7 +20,7 @@ const App = () => {
             route = <Favourites/>;
             break;
         case "login":
-            route = <Login/>;
+            route = <><Login/><Register/></>;
             break;
         default:
             route = <Products/>;
