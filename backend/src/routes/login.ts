@@ -6,7 +6,7 @@ const router = express.Router();
 
 router.get("/api/auth",
     passport.authenticate(["local", "anonymous"]),
-    (req, res) => 
+    (req, res) =>
         req.user ? res.send(true) : res.send(false)
 );
 router.post("/api/login", passport.authenticate("local", {

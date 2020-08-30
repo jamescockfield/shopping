@@ -16,7 +16,7 @@ const App = () => {
         fetch("/api/auth")
             .then(res => res.json())
             .then(auth => setState({ auth }))
-    });
+    }, []);
 
     let route;
     let path = window.location.href.split("/");
