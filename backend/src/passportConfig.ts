@@ -1,3 +1,4 @@
+import { Request, Response, NextFunction } from "express";
 import { PassportStatic } from "passport";
 import { Strategy as LocalStrategy } from "passport-local";
 import { Strategy as AnonymousStrategy } from "passport-anonymous";
@@ -8,8 +9,7 @@ export const passportConfig = (passport: PassportStatic) => {
     passport.use(
         new LocalStrategy({
             usernameField: 'email',
-            passReqToCallback: true
-        },(req, username, password, done) => {
+        }, (username, password, done) => {
             User.findOne({ email: username, password })
                 .then(user =>
                     user ?
@@ -32,7 +32,7 @@ export const passportConfig = (passport: PassportStatic) => {
     });
 }
 
-export const authenticated = (req, res, next) => {
+export const authenticated = (req: Request, res: Response, next: NextFunction) => {
     if (req.user) {
         return next();
     } else {

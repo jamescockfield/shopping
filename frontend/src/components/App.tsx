@@ -1,13 +1,22 @@
-import React from 'react';
-import Login from 'components/Login';
-import Register from 'components/Register';
-import Products from 'components/Products';
-import Navbar from 'components/Navbar';
-import Checkout from 'components/Checkout';
-import Favourites from 'components/Favourites';
-import 'css/App.scss';
+import React from "react";
+import Login from "components/Login";
+import Register from "components/Register";
+import Products from "components/Products";
+import Navbar from "components/Navbar";
+import Checkout from "components/Checkout";
+import Favourites from "components/Favourites";
+import AuthContext from "components/AuthContext";
+import "css/App.scss";
 
 const App = () => {
+
+    const [state, setState] = React.useState({ auth: false });
+
+    React.useEffect(() => {
+        fetch("/api/auth")
+            .then(res => res.json())
+            .then(auth => setState({ auth }))
+    });
 
     let route;
     let path = window.location.href.split("/");
@@ -25,10 +34,11 @@ const App = () => {
         default:
             route = <Products/>;
     }
-    return <>
+
+    return <AuthContext.Provider value={ state }>
         <Navbar/>
         { route }
-    </>;
+    </AuthContext.Provider>;
 };
 
 export default App;

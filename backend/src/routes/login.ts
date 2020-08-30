@@ -4,9 +4,15 @@ import passport from "passport";
 
 const router = express.Router();
 
+router.get("/api/auth",
+    passport.authenticate(["local", "anonymous"]),
+    (req, res) => 
+        req.user ? res.send(true) : res.send(false)
+);
 router.post("/api/login", passport.authenticate("local", {
-    failureRedirect: "/login",
-    failureFlash: true
+    // failureRedirect: "/login",
+    // failureFlash: "Invalid login",
+    // successFlash: "Login success!"
 }), (req, res) => {
     res.cookie("loggedIn", true);
     res.redirect("/");

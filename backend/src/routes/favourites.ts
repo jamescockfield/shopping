@@ -7,7 +7,7 @@ import { authenticated } from "passportConfig";
 
 const router = express.Router();
 
-router.post("/api/favourite", async (req, res) => {
+router.post("/api/favourite", authenticated, async (req, res) => {
     try {
 
         const product = await Product.findOne({ guid: req.body.guid });

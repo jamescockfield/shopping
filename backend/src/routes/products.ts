@@ -12,7 +12,6 @@ const router = express.Router();
 // })(req, res, next);
 
 router.get("/api/products",
-    // passport.authenticate(["local", "anonymous"]),
     async (req, res) => {
 
         try {
@@ -20,7 +19,7 @@ router.get("/api/products",
             if (req.user) {
 
                 const favourite = await Favourite.findOne({ userId: req.user });
-                const favourites = favourite ? favourite.favourites : [];
+                const favourites = favourite && favourite.favourites ? favourite.favourites : [];
 
                 products = await Product.aggregate([{
                     $addFields: {
