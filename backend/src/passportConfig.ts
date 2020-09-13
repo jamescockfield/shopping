@@ -15,7 +15,7 @@ export const passportConfig = (passport: PassportStatic) => {
                     user ?
                         done(null, user) :
                         done(null, false)
-                ).catch(err => done(err));
+                ).catch(done);
         })
     );
 
@@ -28,7 +28,7 @@ export const passportConfig = (passport: PassportStatic) => {
     passport.deserializeUser((id: number, done: any) => {
         User.findById(id)
             .then(user => done(null, user))
-            .catch(err => done(err))
+            .catch(done);
     });
 }
 

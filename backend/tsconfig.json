@@ -2,9 +2,10 @@
     "extends": "@tsconfig/node12/tsconfig.json",
     "compilerOptions": {
         "noImplicitAny": true,
-        "baseUrl": "src",
+        "baseUrl": ".",
         "paths": {
-            "*": ["*"]
+            "test/*": ["test/*"],
+            "*": ["src/*"]
         },
         "resolveJsonModule": true
     }

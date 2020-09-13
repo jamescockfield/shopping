@@ -9,18 +9,13 @@ router.get("/api/auth",
     (req, res) =>
         req.user ? res.send(true) : res.send(false)
 );
-router.post("/api/login", passport.authenticate("local", {
-    // failureRedirect: "/login",
-    // failureFlash: "Invalid login",
-    // successFlash: "Login success!"
-}), (req, res) => {
-    res.cookie("loggedIn", true);
-    res.redirect("/");
-});
+router.post("/api/login", 
+    passport.authenticate("local"),
+    (req, res) => res.redirect("/")
+);
 
 router.get("/api/logout", (req, res) => {
     req.logout();
-    res.clearCookie("loggedIn");
     res.redirect("/");
 });
 
